@@ -7,6 +7,7 @@
 
 body {
   background-color: #ddd8d8;
+  overflow-x: hidden;
 }
 div.background-image {
   position: fixed;
